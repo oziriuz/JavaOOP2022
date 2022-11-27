@@ -1,4 +1,4 @@
-package greedyTimes;
+package working_with_abstraction.exercise.greedyTimes;
 
 import java.util.Collections;
 import java.util.Map;
